@@ -3,7 +3,7 @@
 ## Project Description
 This Python project creates a graphical user interface (GUI) for manually controlling traffic signals at a crossroad. Users can toggle signals and set the green signal duration with this interactive application.
 
-![Traffic Signals](![not loading](https://github.com/AdityaPrakash27/Traffic-Light-Simulation/blob/main/Traffic%20Light.jpg))
+Traffic Signals![not loading](https://github.com/AdityaPrakash27/Traffic-Light-Simulation/blob/main/Traffic%20Light.jpg))
 
 ## Features
 - Toggle individual traffic signals.
